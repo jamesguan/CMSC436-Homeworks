@@ -1,0 +1,18 @@
+#c20c{
+  position: relative;
+  height: auto;
+  width: auto;
+  overflow: auto;
+}
+
+#sidebar{
+  position: relative;
+  float: left;
+}
+
+#matrix{
+  background-color: rgba(22, 22, 22, 0.4);
+  height: auto;
+  width: auto;
+  overflow: auto;
+}
